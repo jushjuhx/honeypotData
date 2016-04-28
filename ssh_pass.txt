@@ -2,6 +2,7 @@
 ^%^%$^%
 ^%$#@!
 ~!@#$%^&
+~!@#$%^&*()_+
  
 _
 -
@@ -10,6 +11,10 @@ _
 ----
 -----
 -------
+---------
+-----------
+-------------
+---------------
 -------------------
 ::::
 !
@@ -29,7 +34,10 @@ _
 '[-=\
 @#$%&
 *
+*****
 \='[-
+++++++
+
 0
 0 
 000
@@ -61,6 +69,7 @@ _
 1008611
 100dedi@
 100dns
+100dns.com
 101010192
 101010388
 101010668
@@ -77,6 +86,7 @@ _
 110
 110119114
 110120
+110120119
 1103
 111
 1111
@@ -94,11 +104,14 @@ _
 111I5Lik3P4rtY@v3r
 111qqaazz
 111qqq!!!
+111qqq...
 112
 112233
+112233aa
 1123@123a
 1123qwe,.
 119
+11\par
 120
 1201230
 12$$12$$
@@ -172,6 +185,7 @@ _
 1234567890
 12345678910
 123456789a
+123456789China
 12345678a
 12345678abc
 1234567a
@@ -226,6 +240,7 @@ _
 123,abc
 123.abc
 123@abc
+123abc!@#
 123abcd
 123-abcd
 123@abcd
@@ -256,11 +271,13 @@ _
 123!@#QWE
 123@QWE
 123qwe1    
+123qwe123
 123qweasd
 123QWEasd
 123qweasdzxc
 123qweasdzxc   
 123qwe.com
+123qweqwe
 123qwe!@#QWE
 123qwer
 123root
@@ -285,6 +302,7 @@ _
 147258369
 147369
 147852369
+147852963
 147896325
 14872824
 159159
@@ -375,6 +393,7 @@ _
 1qazxsw2zaq1xsw2
 1qsc
 1qwe
+1qwe2asd
 1qwe2asd3zxc
 1root
 1z2x3c
@@ -403,6 +422,7 @@ _
 202
 212121
 2164823977newpass123
+2@177cz
 21Noiembrie
 21viacloud
 21vianet
@@ -417,6 +437,7 @@ _
 23456
 2345wert
 23948575
+!2#4%6
 !@#2468
 258369
 277926
@@ -430,6 +451,7 @@ _
 30624700
 3.1415926
 321
+321.321
 321321321
 321654
 33
@@ -496,6 +518,7 @@ _
 5rdx5rdx
 5TGB6YHN
 641407ee12
+654123
 654321
 654321a
 666666
@@ -588,6 +611,8 @@ a
 a123
 a123123
 a123.123
+a123.321
+a1234
 a12345
 a123456
 a123456!
@@ -600,6 +625,7 @@ a1b2c3d4
 a1b2c3d4e5
 a1s2d3f4
 a23xxx
+a321.123
 a321.321
 aa
 Aa111111
@@ -645,6 +671,7 @@ abc@123456
 Abc@123456
 ABC@123456
 ABC123546
+abcabc
 abcabc123
 ABCabc123
 abcd
@@ -661,6 +688,7 @@ Abcd1234
 Abcd12341
 Abcd@123456
 abcde12345
+abcdef
 abcdefghijklm
 aboutyun
 abraham
@@ -669,6 +697,7 @@ access
 account
 acer
 ACIOIWXM%@%%!%
+adam
 adm
 adm1n
 admi
@@ -712,13 +741,16 @@ admin1234
 admin@1234
 admin1234 
 admin1234       
+Admin1234
 Admin@1234
 admin12345
+admin@12345
 Admin12345
 admin123456
 admin@123456
 Admin123456
 admin1234567
+admin12345678
 admin123admin123
 admin123qwe
 admin159
@@ -848,6 +880,7 @@ bj123456
 bj1234567890
 bj123654
 BJwkidc!@#456
+blank
 bnet!@#$123456
 bnn5
 bntvmstc1
@@ -931,6 +964,7 @@ chinaz.com
 chip chip
 chobits
 chris
+chuissb
 chuna20c
 cisco
 cisco123
@@ -953,6 +987,7 @@ clovisaffirmed
 clSonus08!
 clTas08
 cluster
+(CN)
 cndskashdtkfkd
 cnkicnki
 cnp200@HW
@@ -1032,6 +1067,7 @@ djkasg23lgdsa
 dkw12345
 dkw.com
 dlgwbn
+D-Link
 @dmin
 @dmin123
 dnion
@@ -1048,6 +1084,7 @@ doyo123..
 doyo@1234
 dqiKUryBcyif
 dragon
+dreambox
 dreher
 driver
 dsdsdsd
@@ -1073,6 +1110,7 @@ eleve
 enable
 enkjcom
 enter
+epicrouter
 eshore
 eshore!@#
 Eshore!@#
@@ -1134,6 +1172,7 @@ ftpusr
 fuck
 fuck123
 fuckyou
+fuckyou233
 fund123456
 funshion
 future
@@ -1165,16 +1204,19 @@ gita
 gitgit
 gkskfh
 glacier
+glassfish
 global
 GoDaddy123
 godblessyou
 gongxifacai
 good
 good168dns
+goodluck
 google
 Google.com
 gopher
 gpadmin
+guanli
 guest
 guest1
 guest123
@@ -1197,6 +1239,7 @@ hao123.com
 hc
 hc123456(*&
 h@ck3r
+hduser
 hdyy
 hello
 Hello123
@@ -1205,6 +1248,7 @@ helloworld
 helpdesk
 henneman
 herbert
+hexin
 hhhhhh
 hinet
 hitler
@@ -1225,12 +1269,15 @@ Huawei123
 Huawei@123
 hw12345
 hznr76663149
+ibmuser
 iceberg
 iceman
 icpdb
 icpuser_ncs
 icsics
 id
+idc
+idc!@#
 idc0514
 idc123
 idc!@#123
@@ -1295,6 +1342,7 @@ jassonsoft_mas08
 jassonsoft@mas08
 jay
 jboss
+jenkins
 jetsum2015
 jetsum@2015
 jfhguierhgueige
@@ -1337,6 +1385,7 @@ kalimero4cappy
 kanjinel123
 kankan
 kaobaole!(@*2644
+kaossh88
 Kii76ghagtnbhA
 Ki!l|iN6#Th3Ph03$%nix@NdR3b!irD
 killer
@@ -1366,6 +1415,7 @@ legendata.net123!@#
 lei!@#!
 lekhraj
 lenovo
+LEONARD13121995
 letmein
 level3
 lguplus100
@@ -1381,8 +1431,10 @@ linuxserver
 liunx.com
 liutaoshinidie
 liutaowoaini
+llllll
 local
 localhost
+login
 lol1234s
 loler11q
 [loler11q
@@ -1391,6 +1443,8 @@ long123456
 longfeu
 longmaster
 lordhide100
+love
+love123
 love123456
 love520
 loveandsex4ever
@@ -1516,6 +1570,7 @@ new
 news
 newsletter
 newv123
+nexus
 ngncn.com
 nianshao
 nihao123!
@@ -1555,6 +1610,7 @@ o0i9u8y7
 o12nu27
 oana1982
 obits
+obstruct
 Oc5Gh9?xT0!uG3q@
 odfvps01
 odroid
@@ -1573,6 +1629,7 @@ oo
 OOOOOOOO
 opendoor
 Opendoor2013
+openerp
 openssh-portable-com
 openvpnas
 OQ5iS5jcohZ
@@ -1624,6 +1681,7 @@ password
 password!@#
 Password
 Password!
+PassWord
 PASSword
 PASSWORD
 password0
@@ -1648,6 +1706,7 @@ password2008
 password23456
 Passwords
 passwordz
+passwrd
 paul
 pa$$w0rd
 Pa$$w0rd
@@ -1664,6 +1723,7 @@ PiRoPoPiRcAnItA0123456
 pk.rg500.cn
 -pl,=[;.
 PL6a4B=07&Kj4=X
+PlcmSpIp
 plex
 pl,okmijn
 pma
@@ -1690,6 +1750,7 @@ pradeep
 print
 private
 PronetwaySH
+proom
 proxy
 prueba
 prueba123
@@ -1717,6 +1778,7 @@ P@ssword123
 P@ssword2
 PsvR4YdGePqP
 public
+pulaaaaaaaaaaaaaaaaaaaaaaa
 p@$$w0rd
 P@$$w0rd
 pw123
@@ -1735,6 +1797,8 @@ q1w2e3r4t5y6
 q1w2e3r4t5y6u7i8o9p0
 !q2w3e4r
 !Q2w#E4r%T
+qaswed
+qaswed!@#
 qaz@123
 qaz123!@#
 qaz123456
@@ -1753,6 +1817,7 @@ qaz#@!321
 !QAZ3edc
 qazplm
 qazqwert
+qazws
 qazwsx
 !qaz@wsx
 qazwsx^^^
@@ -1772,9 +1837,11 @@ qazwsxedcrfv
 qazwsxedcrfvtgb
 qazxcv
 qazxsw123
+!qazxsw2@
 !QAZxsw2#EDC
 !QAZxsw2#EDCvfr4
 qazxswedc
+qazxswedc!@#
 qbcdef
 QDwkidc!@#456
 QETUOADGJLZCN,
@@ -1810,6 +1877,7 @@ qqwwee
 Qszx123$%^
 qtss
 query123456
+quest
 !Q@W3e4r
 !@qwas
 @#QWAS68
@@ -1833,13 +1901,20 @@ qwe123.123xiaowuninawoaini
 qwe1234
 qwe12345
 qwe123.com
+qwe123qwe
 qwe321
 qwe741
 qwe789!@#
+qwe789789
+qweabc
+qweadmin
 qweasd
 !@#qweasd
+qweasd!@#
 qweasd123
 qweasd!@#123
+qweasd123!@#
+qweasd789
 qweasdzxc
 !@#qweasdzxc
 qweasdzxc!@#
@@ -1863,6 +1938,7 @@ qwerasdf!@#$
 qwert
 qwert!@#$%
 qwert12345
+qwert123456
 qwertasdfg
 qwerty
 qwerty  
@@ -1904,6 +1980,7 @@ redhat
 RedHat
 redhat1
 redhat123
+redmine
 redroot
 relation
 relation  
@@ -1931,6 +2008,7 @@ romasuedia
 romtelecom4usri
 rongda@2015
 rongda@2016
+rooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooot
 roooooooooooooooooooooooooooooooooooooot
 root
 ?root?
@@ -1960,6 +2038,7 @@ root@12345
 root123456
 root123456!
 root1234567
+root@12346
 root123.93
 root2
 root2012
@@ -1992,6 +2071,7 @@ router
 @#Rq92u8fjewRweqf45y43tgh3
 rss123
 rss1234
+rsync
 :$R%T^Y7u 
 $R%T^Y7u
 ruijie
@@ -2094,6 +2174,7 @@ smile123
 sn
 snake
 sniper
+sonar
 sonia
 spam
 spargeosu#^%*&138cucapulinpicior
@@ -2108,6 +2189,7 @@ ssh
 ssh bin@
 sshd
 sshuser
+ssss
 staff
 starhub123
 StarHub123
@@ -2148,6 +2230,7 @@ sybase
 sybase12
 symantec
 syncmaster
+synnet
 sys
 sysadmin
 system
@@ -2157,10 +2240,13 @@ t0talc0ntr0l4!
 talaziz111
 talent
 tarzan
+tasklist
 tatahack
 teamspeak
 teamspeak3
 teamspeak3-user
+tech
+telnet
 temp
 temp1
 temp123
@@ -2177,6 +2263,7 @@ test123!@#
 Test123
 test1231
 test1234
+Test1234
 test2
 test@2012
 test@2013
@@ -2221,7 +2308,9 @@ toshiba
 toto
 totoidc.com!@#
 tplink
+tpuser
 trash
+treino
 trixbox
 trustno1
 ts
@@ -2230,6 +2319,7 @@ ts3prueba
 TS@*46boBN3413
 tudou123
 tuidc.com
+tuxedo
 twinkle
 TZ123445
 tz123456
@@ -2259,6 +2349,7 @@ user1
 user123
 username
 %username%
+usr
 usuario
 usuario2
 utbn
@@ -2288,6 +2379,7 @@ votmdnjem
 vps@123
 vpssqlmaster
 vv
+vyatta
 w111111111
 W3jZZvIfKFvU
 wanderer
@@ -2321,9 +2413,12 @@ Welcome123
 Welcome123!
 wenhua
 wentongweb
+wersdfxcv
+wesdxc
 wewqewqe23e32
 whhqserver
 whiting
+wildfly
 william1
 willow
 windows
@@ -2359,6 +2454,7 @@ Wrere455
 @wsx3edc
 wubao
 wukai7777
+wuzhuang_79@163.com
 www
 www123
 www159389

